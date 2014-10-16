@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[byd:home|Door43 (byd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-byd|d43-byd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-byd/archive/master.zip|d43-byd.zip]]
+
+**Recent Changes**
+{{changes>ns = byd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/byd|Ethnologue data]]
+
